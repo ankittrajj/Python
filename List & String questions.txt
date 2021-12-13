@@ -1,0 +1,14 @@
+List
+1.Python program to interchange first and last elements in a list
+2.Python program to swap two elements in a list
+3.Python | Ways to find length of list
+4.Maximum of two numbers in Python
+5.Minimum of two numbers in Python
+
+6.Python program to check whether the string is Symmetrical or Palindrome
+7.Reverse words in a given String in Python
+8.Ways to remove i’th character from string in Python
+9.Find length of a string in python (4 ways)
+10.Python program to print even length words in a string
+
+
