@@ -1,0 +1,16 @@
+import tkinter
+win = tkinter.Tk()
+win.geometry("600x400")
+
+# input_box.pack()
+
+def show_function():
+    return ('Hello tkinter')
+
+but = tkinter.Button(text='SUBMIT',command = show_function(),font=('Courier',14,'bold'))
+but.pack()
+input_box = tkinter.Entry(width = 20)
+input_box.pack(side=tkinter.LEFT)
+
+
+win.mainloop()
